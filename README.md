@@ -7,7 +7,7 @@ Built a genomic analysis tool utilizing python programming languages to download
 
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Project Discription](#Project Description)
+- [Project Discription](#Project-Description)
 - [Achievements](#Achievements)
 - [Screenshots](#Screenshots)
 
