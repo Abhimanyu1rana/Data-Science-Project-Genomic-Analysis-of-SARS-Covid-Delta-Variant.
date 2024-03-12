@@ -1,14 +1,15 @@
 # Data-Science-Project-Genomic-Analysis-of-SARS-Covid-Delta-Variant.
-## Data Science Project: Genomic Analysis of SARS-Covid-Delta Variant.
+
+## Overview
 Built a genomic analysis tool utilizing python programming languages to download, clean, and process SARS-CoV-Delta sequences of Prince edward island,Canada from the GISAID website. Successfully executed Chaos Game Representation (CGR) and multi-dimensional scaling (MDS) techniques, resulting in 3D visualizations that provided quantifiable insights into genomic relationships among variants. This project was recognized for its innovation, achieved success in streamlining data handling and computational analysis for biological datasets.
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
+- [Installation](#Installation)
+- [Usage](#Usage)
 - [Project Discription](#ProjectDiscription)
-- [Achievements](#features)
-- [Screenshot](#Screenshot)
+- [Achievements](#Achievements)
+- [Screenshots](#Screenshots)
 
 ## Installation
 Clone the repository to your local machine.
@@ -44,9 +45,9 @@ Step 6 : Compute pairwise distances between CGRs, creating a symmetric distance 
 
 Step 7 : Utilize multi-dimensional scaling (MDS) for dimensionality reduction, creating a 3D plot to visualize relationships between data points.
 
-## Achievements and Code
+## Achievements
 This assignment was successfully completed using Python, incorporating libraries such as Biopython for sequence processing, Matplotlib for plotting, and Scikit-learn for MDS. The code includes optimized functions for reading sequences, generating CGR plots, computing distances, and visualizing relationships.
 
 ## Screenshots
-![Example Screenshot](screenshot.png)
+![3D Plot Screenshot.png](3D Plot Screenshot.png)
 
