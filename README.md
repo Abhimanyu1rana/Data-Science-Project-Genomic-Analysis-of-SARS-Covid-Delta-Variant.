@@ -7,7 +7,7 @@ Built a genomic analysis tool utilizing python programming languages to download
 
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Project Discription](#Project Discription)
+- [Project Discription](#Project_Discription)
 - [Achievements](#Achievements)
 - [Screenshots](#Screenshots)
 
@@ -49,6 +49,7 @@ Step 7 : Utilize multi-dimensional scaling (MDS) for dimensionality reduction, c
 This assignment was successfully completed using Python, incorporating libraries such as Biopython for sequence processing, Matplotlib for plotting, and Scikit-learn for MDS. The code includes optimized functions for reading sequences, generating CGR plots, computing distances, and visualizing relationships.
 
 ## Screenshots
-![3D Plot Screenshot.png]("3D Plot Screenshot.png")
+![3D Plot Screenshot.png](3D%20Plot%20Screenshot.png)
+
 
 
