@@ -1,16 +1,17 @@
 # Data-Science-Project-Genomic-Analysis-of-SARS-Covid-Delta-Variant.
-##Overview
-The Genomic Analysis Tool is a comprehensive project designed for the analysis of SARS-CoV-2 variants. Leveraging programming languages, the tool facilitates data download, cleaning, and processing from the GISAID site. Key features include Chaos Game Representation (CGR) and multi-dimensional scaling (MDS), offering 3D visualizations that provide valuable insights into genomic relationships among variants.
+## Data Science Project: Genomic Analysis of SARS-Covid-Delta Variant.
+Built a genomic analysis tool utilizing python programming languages to download, clean, and process SARS-CoV-Delta sequences of Prince edward island,Canada from the GISAID website. Successfully executed Chaos Game Representation (CGR) and multi-dimensional scaling (MDS) techniques, resulting in 3D visualizations that provided quantifiable insights into genomic relationships among variants. This project was recognized for its innovation, achieved success in streamlining data handling and computational analysis for biological datasets.
 
-##Table of Contents
-Installation
-Usage
-Screenshots
-Features
-Contributing
-License
+## Table of Contents
 
-##Installation
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
 Clone the repository to your local machine:
 bash
 Copy code
@@ -19,8 +20,8 @@ Install dependencies:
 bash
 Copy code
 pip install -r requirements.txt
-Usage
-Register on GISAID and obtain approval.
+
+## Usage
 Execute Script#1 to download, clean, and set up the dataset.
 Execute Script#2 to read the dataset, compute Chaos Game Representations, calculate distances, and visualize relationships in 3D.
 bash
